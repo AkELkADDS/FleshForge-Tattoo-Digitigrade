@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34 
-   Mon 04/27/2026 18:12:07.00 
+   Mon 04/27/2026 18:24:32.74 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -179,7 +179,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, April 27, 2026 6:12:11 PM
+  Started : Monday, April 27, 2026 6:24:35 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Projects\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -203,7 +203,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           545607000 Bytes/sec.
    Speed :           31219.882 MegaBytes/min.
-   Ended : Monday, April 27, 2026 6:12:11 PM
+   Ended : Monday, April 27, 2026 6:24:35 PM
 
  
 [DEBUG] Counting source files 
@@ -229,7 +229,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, April 27, 2026 6:12:12 PM
+  Started : Monday, April 27, 2026 6:24:37 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Editor\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -253,7 +253,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :            51346000 Bytes/sec.
    Speed :            2938.041 MegaBytes/min.
-   Ended : Monday, April 27, 2026 6:12:12 PM
+   Ended : Monday, April 27, 2026 6:24:37 PM
 
  
 [DEBUG] Counting source files 
@@ -279,7 +279,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, April 27, 2026 6:12:14 PM
+  Started : Monday, April 27, 2026 6:24:38 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -303,9 +303,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           281800000 Bytes/sec.
-   Speed :           16124.725 MegaBytes/min.
-   Ended : Monday, April 27, 2026 6:12:14 PM
+   Speed :           563600000 Bytes/sec.
+   Speed :           32249.450 MegaBytes/min.
+   Ended : Monday, April 27, 2026 6:24:38 PM
 
  
 [DEBUG] Counting source files 
@@ -331,7 +331,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, April 27, 2026 6:12:15 PM
+  Started : Monday, April 27, 2026 6:24:40 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -427,7 +427,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\f3746520-e1a0-1593-46c5-cbe05692b095.lsf100%  
 	    New File  		   13561	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\fe4f9e78-7dc3-848d-b867-a4ee51a675ed.lsf100%  
 	    New File  		    3302	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\ffd7dca6-9562-4070-9202-21f9f1ada1e8.lsf100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Assets\Textures\Icons\FF_Tattoo_A_Atlas.dds100%  
 	    New File  		  503284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_Leg_Sep_EL_2.GR2100%  
 	    New File  		     169	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_Leg_Sep_EL_2.xml100%  
 	    New File  		  581644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.GR2100%  
@@ -436,6 +435,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_LegSep.xml100%  
 	    New File  		  578772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.GR2100%  
 	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.xml100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Assets\Textures\Icons\FF_Tattoo_A_Atlas.dds100%  
 
 ------------------------------------------------------------------------------
 
@@ -446,9 +446,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           384376954 Bytes/sec.
-   Speed :           21994.225 MegaBytes/min.
-   Ended : Monday, April 27, 2026 6:12:15 PM
+   Speed :           272783645 Bytes/sec.
+   Speed :           15608.805 MegaBytes/min.
+   Ended : Monday, April 27, 2026 6:24:40 PM
 
  
 [DEBUG] Counting source files 
@@ -474,7 +474,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, April 27, 2026 6:12:17 PM
+  Started : Monday, April 27, 2026 6:24:42 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -518,9 +518,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           5700745200 Bytes/sec.
-   Speed :           326199.256 MegaBytes/min.
-   Ended : Monday, April 27, 2026 6:12:17 PM
+   Speed :           6334161333 Bytes/sec.
+   Speed :           362443.618 MegaBytes/min.
+   Ended : Monday, April 27, 2026 6:24:42 PM
 
  
 [DEBUG] Counting source files 
