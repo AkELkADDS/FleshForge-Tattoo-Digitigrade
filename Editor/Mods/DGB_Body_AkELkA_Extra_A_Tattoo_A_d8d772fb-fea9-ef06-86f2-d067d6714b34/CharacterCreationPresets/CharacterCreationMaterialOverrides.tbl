@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="2ac841c2-db6a-40c1-ba6f-63c0eb02886e">
+  <stat_objects>
+    <stat_object color="#FF483D8B" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_12" />
+        <field name="UUID" type="IdTableFieldDefinition" value="708b75e7-56cd-49b7-9132-40d195a2d3c1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_Gradient_A_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="ea25fdd6-f5cf-bf33-ea17-37a92ab26558" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="51960822-d8f5-6663-4486-dd32ed705ea6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="53b22948-1075-450a-927c-7da66be22840" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Gradient_A_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="76da15c2-df3f-7c8f-41a9-8af772397979" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="1d87dc5e-0a56-d65d-20da-60c7ffb6ab72" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0a10912a-79b1-40e8-93a4-b6670d3d4721" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_Tattoo_A_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="33687f02-7b85-070c-0e0a-22410f90bad5" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="2dd9b563-7505-e771-a8ef-561b6a3b2ad7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4ea87a76-6777-4020-9884-1a0f0b3dda12" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Tattoo_A_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="fe4f9e78-7dc3-848d-b867-a4ee51a675ed" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="1dad41b4-5866-bfc4-c613-bb12622515b1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3292f7b3-dc48-4386-b020-0c61842c8c56" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_Tattoo_B_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="6c3119d8-4bba-1dc0-6ee6-2d02d470a733" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="1ae82d27-1052-7b4e-d39f-084fc3954671" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9bf343e3-f804-4eeb-8fad-78e43ce03f58" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Tattoo_B_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="ed6891f8-127e-3eac-7878-94a35a67d653" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="5a57c642-7d67-b174-e2ee-3de19cf00a85" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b01bd7cc-9747-4d47-8dc2-3cf851c670cc" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_Tattoo_C_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="d97b61ce-f8f3-107a-a388-471f5c2b2a6f" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="2bdfee04-77b5-0452-aad0-f08d2571a77b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d18dd008-2c0c-4b31-bf35-3d69a48a191d" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Tattoo_C_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="755b569a-6cf3-ab3a-016d-cb18831b8b68" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="a47f85da-b5f6-f736-e501-b144cc33b976" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bebe166e-9f51-4c51-b2fa-600229035958" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_Tattoo_D_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="6fc8781b-bdb0-8136-9292-16872ac2b2ca" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="30fdfaf6-4cfb-b0dd-5e11-b24a438aa597" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0c0dac29-4c10-44b9-becb-a28177e84da5" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Tattoo_D_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="655cb58b-9ee7-5045-4382-d5737d08596f" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="54478110-43c2-7654-bcdb-327cd4c2525a" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_10" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8d2f5c51-c7ac-4b8b-a626-90e35a981afe" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_Tattoo_E_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="7bcb15a5-622a-fe93-fdb4-52f0a00160c1" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="10974bac-9d62-5741-1d22-e4d698b6ad7c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f8f4ab78-fb6a-4416-8135-8495cc46436c" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Tattoo_E_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="63eff180-379b-55b1-daa3-22d429d109a3" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="930a3ad2-a57e-4606-303e-6ff9b31d3d6c" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_13" />
+        <field name="UUID" type="IdTableFieldDefinition" value="624e8e6b-c321-42e3-9747-359652be76a3" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_Tattoo_F_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="3735ecb2-55a0-44b3-aa95-b229cfcb7593" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="2b0ee40c-6853-41e6-a7d4-37daf7c09d52" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_11" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fa7cf430-90ec-4f5d-8555-bcbbe4b741b7" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Tattoo_F_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="588a1bea-3664-49fd-48dd-100d6753bc0a" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="0578c7ed-2236-c724-4dd4-0f09431893b0" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_15" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c1a00611-9654-4bf5-8d29-c61846026265" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_Tattoo_G_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="aac2767d-1395-8d6a-9628-fae9be319c8b" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="58c50777-d188-7d72-9206-1b4b605895a9" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_14" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b811bc41-2bdf-42c7-abe5-a1cf96dd0523" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Tattoo_G_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="03ace60e-ff2b-18ce-7004-fb7091ef7800" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="ae1fbc38-6212-771e-7ad4-1679d9915413" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_17" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ef0f1706-4e77-460d-8a10-9cc8c498fe63" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_Tattoo_H_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="9a683bac-2c5b-39bd-1cdb-fc8187c01c75" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="ad6757b9-83aa-163c-1585-26dd134a3b47" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_16" />
+        <field name="UUID" type="IdTableFieldDefinition" value="24412c76-48dd-451f-8243-1711e4656504" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_B_EL_2_Tattoo_H_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="37791ea5-609f-1962-6af1-3bd981777d84" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="15565112-77f3-fc00-b7fc-5bb4ef6ec4b6" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_19" />
+        <field name="UUID" type="IdTableFieldDefinition" value="466035be-9a3c-4c4c-9a8d-76f454bbc4b0" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Body_F_Sickle_A_EL_2_Tattoo_I_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="3c2d69e9-1f58-0705-f865-df8450189b3e" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="6d6c3cb9-e12c-12d2-e7d8-747f23d05cee" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_18" />
+        <field name="UUID" type="IdTableFieldDefinition" value="49b1475a-4472-4421-b86d-8aa5198a26d8" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Body_F_Sickle_A_EL_1_Tattoo_I_Black" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="17b65d04-d056-f8fe-cf15-bf531048f46f" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="547121e4-3383-5866-0ea4-abce2a04c46d" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

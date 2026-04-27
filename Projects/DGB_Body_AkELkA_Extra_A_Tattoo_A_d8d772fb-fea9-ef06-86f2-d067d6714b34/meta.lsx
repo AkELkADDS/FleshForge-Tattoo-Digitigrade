@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="d8d772fb-fea9-ef06-86f2-d067d6714b34"/>
+            <attribute id="Name" type="LSString" value="DGB_Body_AkELkA_Extra_A_Tattoo_A"/>
+            <attribute id="UUID" type="LSString" value="e5bb0d10-b56b-d99e-e961-f2b0fb4a8c63"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
