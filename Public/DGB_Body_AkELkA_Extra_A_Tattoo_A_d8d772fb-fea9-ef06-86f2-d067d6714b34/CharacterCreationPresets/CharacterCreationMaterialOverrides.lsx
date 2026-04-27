@@ -62,15 +62,6 @@
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
                     <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
                     <attribute id="MaterialType" type="FixedString" value="Passive"/>
-                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_C_Black"/>
-                    <attribute id="SourceMaterialUUID" type="FixedString" value="755b569a-6cf3-ab3a-016d-cb18831b8b68"/>
-                    <attribute id="TargetMaterialUUID" type="FixedString" value="a47f85da-b5f6-f736-e501-b144cc33b976"/>
-                    <attribute id="UUID" type="guid" value="d18dd008-2c0c-4b31-bf35-3d69a48a191d"/>
-                </node>
-                <node id="CharacterCreationMaterialOverride">
-                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
-                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
-                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
                     <attribute id="Name" type="FixedString" value="DGB_F_NKD_Body_B_EL_2_Tattoo_C_Black"/>
                     <attribute id="SourceMaterialUUID" type="FixedString" value="d97b61ce-f8f3-107a-a388-471f5c2b2a6f"/>
                     <attribute id="TargetMaterialUUID" type="FixedString" value="2bdfee04-77b5-0452-aad0-f08d2571a77b"/>
@@ -80,10 +71,10 @@
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
                     <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
                     <attribute id="MaterialType" type="FixedString" value="Passive"/>
-                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_D_Black"/>
-                    <attribute id="SourceMaterialUUID" type="FixedString" value="655cb58b-9ee7-5045-4382-d5737d08596f"/>
-                    <attribute id="TargetMaterialUUID" type="FixedString" value="54478110-43c2-7654-bcdb-327cd4c2525a"/>
-                    <attribute id="UUID" type="guid" value="0c0dac29-4c10-44b9-becb-a28177e84da5"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_C_Black"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="755b569a-6cf3-ab3a-016d-cb18831b8b68"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="a47f85da-b5f6-f736-e501-b144cc33b976"/>
+                    <attribute id="UUID" type="guid" value="d18dd008-2c0c-4b31-bf35-3d69a48a191d"/>
                 </node>
                 <node id="CharacterCreationMaterialOverride">
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
@@ -98,10 +89,10 @@
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
                     <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
                     <attribute id="MaterialType" type="FixedString" value="Passive"/>
-                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_E_Black"/>
-                    <attribute id="SourceMaterialUUID" type="FixedString" value="63eff180-379b-55b1-daa3-22d429d109a3"/>
-                    <attribute id="TargetMaterialUUID" type="FixedString" value="930a3ad2-a57e-4606-303e-6ff9b31d3d6c"/>
-                    <attribute id="UUID" type="guid" value="f8f4ab78-fb6a-4416-8135-8495cc46436c"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_D_Black"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="655cb58b-9ee7-5045-4382-d5737d08596f"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="54478110-43c2-7654-bcdb-327cd4c2525a"/>
+                    <attribute id="UUID" type="guid" value="0c0dac29-4c10-44b9-becb-a28177e84da5"/>
                 </node>
                 <node id="CharacterCreationMaterialOverride">
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
@@ -116,10 +107,10 @@
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
                     <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
                     <attribute id="MaterialType" type="FixedString" value="Passive"/>
-                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_F_Black"/>
-                    <attribute id="SourceMaterialUUID" type="FixedString" value="588a1bea-3664-49fd-48dd-100d6753bc0a"/>
-                    <attribute id="TargetMaterialUUID" type="FixedString" value="0578c7ed-2236-c724-4dd4-0f09431893b0"/>
-                    <attribute id="UUID" type="guid" value="fa7cf430-90ec-4f5d-8555-bcbbe4b741b7"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_E_Black"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="63eff180-379b-55b1-daa3-22d429d109a3"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="930a3ad2-a57e-4606-303e-6ff9b31d3d6c"/>
+                    <attribute id="UUID" type="guid" value="f8f4ab78-fb6a-4416-8135-8495cc46436c"/>
                 </node>
                 <node id="CharacterCreationMaterialOverride">
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
@@ -134,10 +125,10 @@
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
                     <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
                     <attribute id="MaterialType" type="FixedString" value="Passive"/>
-                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_G_Black"/>
-                    <attribute id="SourceMaterialUUID" type="FixedString" value="03ace60e-ff2b-18ce-7004-fb7091ef7800"/>
-                    <attribute id="TargetMaterialUUID" type="FixedString" value="ae1fbc38-6212-771e-7ad4-1679d9915413"/>
-                    <attribute id="UUID" type="guid" value="b811bc41-2bdf-42c7-abe5-a1cf96dd0523"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_F_Black"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="588a1bea-3664-49fd-48dd-100d6753bc0a"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="0578c7ed-2236-c724-4dd4-0f09431893b0"/>
+                    <attribute id="UUID" type="guid" value="fa7cf430-90ec-4f5d-8555-bcbbe4b741b7"/>
                 </node>
                 <node id="CharacterCreationMaterialOverride">
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
@@ -152,10 +143,10 @@
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
                     <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
                     <attribute id="MaterialType" type="FixedString" value="Passive"/>
-                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_H_Black"/>
-                    <attribute id="SourceMaterialUUID" type="FixedString" value="37791ea5-609f-1962-6af1-3bd981777d84"/>
-                    <attribute id="TargetMaterialUUID" type="FixedString" value="15565112-77f3-fc00-b7fc-5bb4ef6ec4b6"/>
-                    <attribute id="UUID" type="guid" value="24412c76-48dd-451f-8243-1711e4656504"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_G_Black"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="03ace60e-ff2b-18ce-7004-fb7091ef7800"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="ae1fbc38-6212-771e-7ad4-1679d9915413"/>
+                    <attribute id="UUID" type="guid" value="b811bc41-2bdf-42c7-abe5-a1cf96dd0523"/>
                 </node>
                 <node id="CharacterCreationMaterialOverride">
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
@@ -170,10 +161,10 @@
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
                     <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
                     <attribute id="MaterialType" type="FixedString" value="Passive"/>
-                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_F_Sickle_A_EL_1_Tattoo_I_Black"/>
-                    <attribute id="SourceMaterialUUID" type="FixedString" value="17b65d04-d056-f8fe-cf15-bf531048f46f"/>
-                    <attribute id="TargetMaterialUUID" type="FixedString" value="547121e4-3383-5866-0ea4-abce2a04c46d"/>
-                    <attribute id="UUID" type="guid" value="49b1475a-4472-4421-b86d-8aa5198a26d8"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Tattoo_H_Black"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="37791ea5-609f-1962-6af1-3bd981777d84"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="15565112-77f3-fc00-b7fc-5bb4ef6ec4b6"/>
+                    <attribute id="UUID" type="guid" value="24412c76-48dd-451f-8243-1711e4656504"/>
                 </node>
                 <node id="CharacterCreationMaterialOverride">
                     <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
@@ -183,6 +174,87 @@
                     <attribute id="SourceMaterialUUID" type="FixedString" value="3c2d69e9-1f58-0705-f865-df8450189b3e"/>
                     <attribute id="TargetMaterialUUID" type="FixedString" value="6d6c3cb9-e12c-12d2-e7d8-747f23d05cee"/>
                     <attribute id="UUID" type="guid" value="466035be-9a3c-4c4c-9a8d-76f454bbc4b0"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_F_Sickle_A_EL_1_Tattoo_I_Black"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="17b65d04-d056-f8fe-cf15-bf531048f46f"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="547121e4-3383-5866-0ea4-abce2a04c46d"/>
+                    <attribute id="UUID" type="guid" value="49b1475a-4472-4421-b86d-8aa5198a26d8"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Gradient_A_BGreen"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="9a002e1b-2489-1f10-e21e-d0186e3efe06"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="6da62140-ed7e-557b-bef2-2ee0dc0ba641"/>
+                    <attribute id="UUID" type="guid" value="1665b35c-880b-44d4-bd0d-c793a91602e9"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Gradient_A_Blue"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="09104738-e53c-c249-883a-673b5a08926b"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="73921d82-4789-e95a-e1ef-40c56a0d4aa1"/>
+                    <attribute id="UUID" type="guid" value="fce99f30-46db-4cad-929a-4ec6a792ec87"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Gradient_A_Coffee"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="3b80c289-cb6e-991f-3246-6d5275e07de4"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="3f74dc59-0dc2-2279-48e7-0a9e1d3e8c76"/>
+                    <attribute id="UUID" type="guid" value="f1f42908-1919-45aa-9614-4418638da570"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Gradient_A_Green"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="9e8a53eb-e6c2-50ca-69a4-005bc85ba4ed"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="23f9f56a-df5f-d92f-3d91-41a5df2cc2f4"/>
+                    <attribute id="UUID" type="guid" value="db3bf940-6519-4c00-8fab-6ffd3f11334b"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Gradient_A_Orange"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="4ad908f4-3bf1-8cfc-e7f3-83f60bddbcdd"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="3fd6418a-86fa-8f26-2c1f-0a775a068e3a"/>
+                    <attribute id="UUID" type="guid" value="e13686c9-fa2f-40fd-a264-a88133ee2429"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Gradient_A_Pink"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="ab5559b1-4dc9-d59c-b624-b083ae437859"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="078c9f46-eebf-53bb-d04d-a78dcd04a8a5"/>
+                    <attribute id="UUID" type="guid" value="e7dffc29-8a08-4b40-afdf-4be40dcacbb4"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Gradient_A_Purple"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="34fdf551-dcb1-8100-6966-245e83dfb441"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="e4a8eae0-5944-8138-a998-e140f4852449"/>
+                    <attribute id="UUID" type="guid" value="39698361-3346-429f-b121-a0d41a6c920d"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_B_EL_2_Gradient_A_Red"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="ba722458-b87e-d479-06e1-55c3cf8196d9"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="cf4aed3a-8130-1600-8547-c6347c044f11"/>
+                    <attribute id="UUID" type="guid" value="c9545819-4930-4b4b-8535-516afced664a"/>
                 </node>
             </children>
         </node>
