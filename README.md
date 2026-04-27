@@ -1,8 +1,8 @@
-Clawstep - Dragonborn female body
+FleshForge - Tattoo - Digitigrade
 
-[ModIO](https://mod.io/g/baldursgate3/m/dragonborn-body-replacer-dragonborn-cc#description)
-[Nexus](https://www.nexusmods.com/baldursgate3/mods/16384?tab=description)
+ModIO
+Nexus
 
-DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a
+DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34
 
 BG3_DATA="E:/El/Games/Steam/steamapps/common/Baldurs Gate 3/Data"
