@@ -17,6 +17,86 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4d7d14e8gbf82g4e3bgfad5g59996d4cba22" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_BGreen"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="0d2b83c7-a0d1-4e6a-89ca-953da51861a3"/>
+                    <attribute id="VisualResource" type="guid" value="47866a84-f2ae-4dde-816d-33c1a81b0f9a"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd0ada3e5g847bgef74g2c26g1769dcdc1278" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Blue"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="11df3902-e42f-47cf-af36-0ec8c96fb23f"/>
+                    <attribute id="VisualResource" type="guid" value="6bd0f1cb-5d00-42ad-9eaf-09659b7334fd"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h89128be3gc8b1gd077gd5aaga03fb5f8e314" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Orange"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="d5c806a3-0eea-4ae7-b2d6-e1a3c36473cc"/>
+                    <attribute id="VisualResource" type="guid" value="01fa5b68-f993-497f-b87d-86847d6ad82b"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h616ad319g3e56gec55g4125g5c8574305465" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Green"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="365edff2-8a2f-477a-b4f4-f998a545fac3"/>
+                    <attribute id="VisualResource" type="guid" value="af87138c-1b67-4fdc-b832-a1e593349216"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hda71d46cg265egf2e2gbac8gc3645f664792" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Pink"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="d6432748-8ca0-4c62-bcc3-0a63fcb4f7a0"/>
+                    <attribute id="VisualResource" type="guid" value="02fe8315-55a5-4741-8df0-b5629b032de3"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbc9d8f1bg748bgba05g8428gcd3e217307c3" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Purple"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="9a15b60a-b92d-4421-806f-cf5e066ed38a"/>
+                    <attribute id="VisualResource" type="guid" value="785217f8-fa11-4255-9d86-c43d4321b825"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h942ef93ag7b3egbacegee6bg5c7aeaa49902" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Red"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="e5fa968c-50d2-4647-9ef6-8a3aed9f1266"/>
+                    <attribute id="VisualResource" type="guid" value="99f84215-40aa-4784-8a35-1655dfa4e706"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h987f6732g3739g6d21gd1c9g8f8a159f69ef" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Coffee"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Beard"/>
+                    <attribute id="UUID" type="guid" value="268bbaf1-ba94-42d5-8651-9aee2e922890"/>
+                    <attribute id="VisualResource" type="guid" value="257b665e-fabe-45f1-b955-5a1fc45188f6"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h732a4fc3g973cg18dcg3cb3g01b9a156b30d" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_A_Black"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
@@ -118,6 +198,96 @@
                             <attribute id="Object" type="guid" value="130940d3-07c9-4689-b25a-3f0d63e7befc"/>
                         </node>
                     </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5be430e1gb0c9g2600g3ec1g2c9e047906f2" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Black"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="8383348c-7639-47ec-89af-df89594f4ea9"/>
+                    <attribute id="VisualResource" type="guid" value="ffd7dca6-9562-4070-9202-21f9f1ada1e8"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hda39bb70g6d7ege377g6effga007177b5b1a" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_BGreen"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="eb137e30-6209-4c63-91d1-7568cde0f9ef"/>
+                    <attribute id="VisualResource" type="guid" value="9062e680-5cb1-44dd-af0f-6fe863e2ec37"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb9002b91gbe4ag3f59gc07bg74c1ad8c1aa3" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Blue"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="9b1110e9-0930-42be-a355-e0be2acc8786"/>
+                    <attribute id="VisualResource" type="guid" value="a096a0cd-bcb3-47ec-a181-ef897dd16419"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6ac5db21g1e0cg5112gc1b5g24cfe94f757b" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Orange"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="820bbedc-ccaf-4ad1-bb81-0d869311cf70"/>
+                    <attribute id="VisualResource" type="guid" value="83d43795-7305-4108-a1c1-88f90cef6a51"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h930e8543g2e77g7a00g6ff8g0140ac9beb15" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Green"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="7941a43a-8325-45b5-b52f-6c86c50f3a87"/>
+                    <attribute id="VisualResource" type="guid" value="66ad56b4-64b0-48c2-a395-28e8c32a422b"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h31d74594g7156g1a5fg84e7gfc8dd7a2a03b" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Pink"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="20cfd695-ebd0-4848-86c8-603519682e73"/>
+                    <attribute id="VisualResource" type="guid" value="92541121-0723-4461-90cf-79cac2d1ee56"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7e2c3c5cg6e55g0b4cgc770g067f1d22c0d5" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Purple"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="5a451f48-ef04-4374-8e2e-e63fe4e5836f"/>
+                    <attribute id="VisualResource" type="guid" value="c68cdc99-d5d4-46b6-be11-59620a18da45"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdc30b732g6e5eg7293g26afga5d752274de3" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Red"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="69d19d0d-23b9-463d-b154-db39c6bad4f9"/>
+                    <attribute id="VisualResource" type="guid" value="90e4abea-a8b8-427b-8e22-a9fa35f36d3f"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha4cb9e92gd0e7ga61eg89b5g775e17ff7b84" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Coffee"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="766743f4-a1ab-4f3d-bbfc-fb240a641843"/>
+                    <attribute id="VisualResource" type="guid" value="85e28647-4da0-4cd6-858e-fbdbc06bf993"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
@@ -316,83 +486,93 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h4d7d14e8gbf82g4e3bgfad5g59996d4cba22" version="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4f1019d9g0b5ege892g79f0g1e6815cbf071" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Black"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="bd6447f8-6560-4a3c-941b-c17247c582f7"/>
+                    <attribute id="VisualResource" type="guid" value="35b2ebfe-e59c-41cd-92e8-6a52407bbd30"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc9251d40gadc1ga963g82e2gaf6b633cab27" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_BGreen"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Beard"/>
-                    <attribute id="UUID" type="guid" value="0d2b83c7-a0d1-4e6a-89ca-953da51861a3"/>
-                    <attribute id="VisualResource" type="guid" value="47866a84-f2ae-4dde-816d-33c1a81b0f9a"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="738d9c7d-dbd2-467e-91de-ff76f39ec748"/>
+                    <attribute id="VisualResource" type="guid" value="d157e736-334a-431f-89ab-cd2fa750e109"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hd0ada3e5g847bgef74g2c26g1769dcdc1278" version="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5217180ag21f2gf807gcd74g9003d285612a" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Blue"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Beard"/>
-                    <attribute id="UUID" type="guid" value="11df3902-e42f-47cf-af36-0ec8c96fb23f"/>
-                    <attribute id="VisualResource" type="guid" value="6bd0f1cb-5d00-42ad-9eaf-09659b7334fd"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="ebbe4679-bec9-41cc-bed7-ebbdcded243b"/>
+                    <attribute id="VisualResource" type="guid" value="e24fd239-5bb7-492f-ab6c-f8578fabca12"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h89128be3gc8b1gd077gd5aaga03fb5f8e314" version="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2cfdfb36g55d6g8442gfa9dg1b2b30fa1b35" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Orange"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Beard"/>
-                    <attribute id="UUID" type="guid" value="d5c806a3-0eea-4ae7-b2d6-e1a3c36473cc"/>
-                    <attribute id="VisualResource" type="guid" value="01fa5b68-f993-497f-b87d-86847d6ad82b"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="e7140e7f-efb5-4417-b5e8-c04992175b08"/>
+                    <attribute id="VisualResource" type="guid" value="8e2a90a2-a776-4800-a2fa-10113066229b"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h616ad319g3e56gec55g4125g5c8574305465" version="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5830a3d1g668eg6c0fg1e4egeada7d20a6b3" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Green"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Beard"/>
-                    <attribute id="UUID" type="guid" value="365edff2-8a2f-477a-b4f4-f998a545fac3"/>
-                    <attribute id="VisualResource" type="guid" value="af87138c-1b67-4fdc-b832-a1e593349216"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="cfdec0c4-c543-4e11-862a-114572b1ed75"/>
+                    <attribute id="VisualResource" type="guid" value="e58d0cea-ff6b-4a76-b824-dd09db316a37"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hda71d46cg265egf2e2gbac8gc3645f664792" version="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcd6d1d6cga040g3cf4gd7dbge1b20b333c77" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Pink"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Beard"/>
-                    <attribute id="UUID" type="guid" value="d6432748-8ca0-4c62-bcc3-0a63fcb4f7a0"/>
-                    <attribute id="VisualResource" type="guid" value="02fe8315-55a5-4741-8df0-b5629b032de3"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="82c80425-9dc1-40e6-a17d-17c8f1dbd88b"/>
+                    <attribute id="VisualResource" type="guid" value="a0f3f2c3-ec7b-4eae-874f-7b58da6f4aac"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hbc9d8f1bg748bgba05g8428gcd3e217307c3" version="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h810a6cfag5497g2f12g2ff7g2d8ffdb1e93c" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Purple"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Beard"/>
-                    <attribute id="UUID" type="guid" value="9a15b60a-b92d-4421-806f-cf5e066ed38a"/>
-                    <attribute id="VisualResource" type="guid" value="785217f8-fa11-4255-9d86-c43d4321b825"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="29d030d1-ec31-4dbe-805a-b338bf28bf67"/>
+                    <attribute id="VisualResource" type="guid" value="9b58ff93-11cf-498e-99c8-c1dbea38b550"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h942ef93ag7b3egbacegee6bg5c7aeaa49902" version="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha3a9fe13ge448g15ecg73cbgd51bb06ca4de" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Red"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Beard"/>
-                    <attribute id="UUID" type="guid" value="e5fa968c-50d2-4647-9ef6-8a3aed9f1266"/>
-                    <attribute id="VisualResource" type="guid" value="99f84215-40aa-4784-8a35-1655dfa4e706"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="4ec2a146-dc4a-4390-9b56-b25f67b5f145"/>
+                    <attribute id="VisualResource" type="guid" value="d3deb1d6-eca0-4700-84b1-3c43f185159f"/>
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h987f6732g3739g6d21gd1c9g8f8a159f69ef" version="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc0bdac35gaea1g7e25g6918gfaac268455b0" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Coffee"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Beard"/>
-                    <attribute id="UUID" type="guid" value="268bbaf1-ba94-42d5-8651-9aee2e922890"/>
-                    <attribute id="VisualResource" type="guid" value="257b665e-fabe-45f1-b955-5a1fc45188f6"/>
+                    <attribute id="SlotName" type="FixedString" value="Tail"/>
+                    <attribute id="UUID" type="guid" value="e6fb759a-bac4-4322-b8a7-131b78b5f439"/>
+                    <attribute id="VisualResource" type="guid" value="af5abfb5-b07d-4dc5-9f02-180e450f859b"/>
                 </node>
             </children>
         </node>
