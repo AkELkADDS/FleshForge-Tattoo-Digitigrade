@@ -276,9 +276,9 @@
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Tail" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="ffd7dca6-9562-4070-9202-21f9f1ada1e8" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_B_EL_2_Gradient_A_Black" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5be430e1gb0c9g2600g3ec1g2c9e047906f2" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="003af176-bbfd-45bc-a040-5a5f7e1d8eb4" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Black" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5be430e1gb0c9g2600g3ec1g2c9e047906f2" version="2" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Gradient_A_Black" />
       </fields>
     </stat_object>
