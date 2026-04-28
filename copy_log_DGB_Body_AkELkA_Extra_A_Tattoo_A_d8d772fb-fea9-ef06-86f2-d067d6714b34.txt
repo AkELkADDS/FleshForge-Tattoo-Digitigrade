@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34 
-   Tue 04/28/2026 21:27:44.90 
+   Tue 04/28/2026 21:36:37.65 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -291,302 +291,155 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\fb61102d-c808-4a42-b5a2-64cae0bbf09c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\fe4f9e78-7dc3-848d-b867-a4ee51a675ed.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\ffd7dca6-9562-4070-9202-21f9f1ada1e8.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_BGreen.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_BGreen.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Blue.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Blue.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Coffee.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Coffee.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Fire.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Fire.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Green.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Green.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Pink.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Pink.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Purple.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Purple.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Red.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Red.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_Leg_Sep_EL_2.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_Leg_Sep_EL_2.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Clawstep_Raptor_LegSep.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Clawstep_Raptor_LegSep.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_A_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_A_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_G_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_H_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_H_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_I_Black_Scar_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_I_Black_Scar_B.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_Clawstep_ShortClaw_LegSep.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_Clawstep_ShortClaw_LegSep.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_A_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_A_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_G_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_H_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_H_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_I_Black_Scar_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_I_Black_Scar_B.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Clawstep_Sickle_A_LegSep.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Clawstep_Sickle_A_LegSep.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_A_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_A_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_G_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_H_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_H_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_I_Black_Scar_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_I_Black_Scar_B.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Clawstep_Sickle_B_LegSep.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Clawstep_Sickle_B_LegSep.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_A_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_A_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_G_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_H_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_H_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_I_Black_Scar_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_I_Black_Scar_B.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_G_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_H_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_H_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_I_Black_Scar_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_I_Black_Scar_B.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_BGreen.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_BGreen.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Blue.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Blue.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Fire.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Fire.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Green.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Green.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Pink.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Pink.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Purple.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Purple.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Red.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Red.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_LegSep.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_LegSep.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Clawstep_Raptor_LegSep.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Clawstep_Raptor_LegSep.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_A_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_A_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_G_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_H_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_H_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_I_Black_Scar_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_I_Black_Scar_B.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_Clawstep_ShortClaw_LegSep.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_Clawstep_ShortClaw_LegSep.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_A_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_A_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_G_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_H_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_H_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_I_Black_Scar_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_I_Black_Scar_B.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Clawstep_Sickle_A_LegSep.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Clawstep_Sickle_A_LegSep.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_A_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_A_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_G_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_H_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_H_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_I_Black_Scar_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_I_Black_Scar_B.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Clawstep_Sickle_B_LegSep.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Clawstep_Sickle_B_LegSep.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_A_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_A_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_G_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_H_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_H_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_I_Black_Scar_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_I_Black_Scar_B.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_G_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_H_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_H_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_I_Black_Scar_B.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_I_Black_Scar_B.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_BGreen.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_BGreen.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Blue.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Blue.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Coffee.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Coffee.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Fire.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Fire.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Green.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Green.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Pink.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Pink.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Purple.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Purple.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Red.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Red.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_A_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_A_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_G_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_BGreen.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_BGreen.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Blue.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Blue.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Coffee.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Coffee.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Green.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Green.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Orange.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Orange.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Pink.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Pink.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Purple.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Purple.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Red.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Red.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_A_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_A_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_B_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_B_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_C_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_C_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_D_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_D_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_E_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_E_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_F_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_F_Black.xml 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_G_Black.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_G_Black.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\GUI\FF_Tattoo_A_Atlas.lsx 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34: 549 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34: 402 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34 
  
@@ -627,7 +480,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1.GR2 
 Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34: 34 
  
-[LOG] Total files found across all folders: 591 
+[LOG] Total files found across all folders: 444 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -643,7 +496,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 28, 2026 9:27:48 PM
+  Started : Tuesday, April 28, 2026 9:36:40 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Projects\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -667,7 +520,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           545607000 Bytes/sec.
    Speed :           31219.882 MegaBytes/min.
-   Ended : Tuesday, April 28, 2026 9:27:48 PM
+   Ended : Tuesday, April 28, 2026 9:36:40 PM
 
  
 [DEBUG] Counting source files 
@@ -693,7 +546,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 28, 2026 9:27:49 PM
+  Started : Tuesday, April 28, 2026 9:36:42 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Editor\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -717,7 +570,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           259874000 Bytes/sec.
    Speed :           14870.109 MegaBytes/min.
-   Ended : Tuesday, April 28, 2026 9:27:49 PM
+   Ended : Tuesday, April 28, 2026 9:36:42 PM
 
  
 [DEBUG] Counting source files 
@@ -743,7 +596,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 28, 2026 9:27:51 PM
+  Started : Tuesday, April 28, 2026 9:36:44 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -769,7 +622,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           584121000 Bytes/sec.
    Speed :           33423.671 MegaBytes/min.
-   Ended : Tuesday, April 28, 2026 9:27:51 PM
+   Ended : Tuesday, April 28, 2026 9:36:44 PM
 
  
 [DEBUG] Counting source files 
@@ -795,7 +648,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 28, 2026 9:27:53 PM
+  Started : Tuesday, April 28, 2026 9:36:45 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -808,6 +661,121 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  161429	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 	    New File  		   31391	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
 	    New File  		   36371	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\GUI\FF_Tattoo_A_Atlas.lsx100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_BGreen.xml100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Blue.xml100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Coffee.xml100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Fire.xml100%  
+	    New File  		     178	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Green.xml100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Pink.xml100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Purple.xml100%  
+	    New File  		     176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Red.xml100%  
+	    New File  		     169	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_Leg_Sep_EL_2.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Clawstep_Raptor_LegSep.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_A_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_B_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_C_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_D_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_E_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_F_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_G_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_H_Black.xml100%  
+	    New File  		     190	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_I_Black_Scar_B.xml100%  
+	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_Clawstep_ShortClaw_LegSep.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_A_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_B_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_C_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_D_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_E_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_F_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_G_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_H_Black.xml100%  
+	    New File  		     193	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_I_Black_Scar_B.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Clawstep_Sickle_A_LegSep.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_A_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_B_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_C_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_D_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_E_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_F_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_G_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_H_Black.xml100%  
+	    New File  		     192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_I_Black_Scar_B.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Clawstep_Sickle_B_LegSep.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_A_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_B_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_C_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_D_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_E_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_F_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_G_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_H_Black.xml100%  
+	    New File  		     192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_I_Black_Scar_B.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_B_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_C_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_D_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_E_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_F_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_G_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_H_Black.xml100%  
+	    New File  		     191	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_I_Black_Scar_B.xml100%  
+	    New File  		     189	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.xml100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_BGreen.xml100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Blue.xml100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Fire.xml100%  
+	    New File  		     178	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Green.xml100%  
+	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Pink.xml100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Purple.xml100%  
+	    New File  		     176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Red.xml100%  
+	    New File  		     168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_LegSep.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Clawstep_Raptor_LegSep.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_A_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_B_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_C_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_D_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_E_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_F_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_G_Black.xml100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_H_Black.xml100%  
+	    New File  		     190	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_I_Black_Scar_B.xml100%  
+	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_Clawstep_ShortClaw_LegSep.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_A_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_B_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_C_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_D_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_E_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_F_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_G_Black.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_H_Black.xml100%  
+	    New File  		     193	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_I_Black_Scar_B.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Clawstep_Sickle_A_LegSep.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_A_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_B_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_C_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_D_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_E_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_F_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_G_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_H_Black.xml100%  
+	    New File  		     192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_I_Black_Scar_B.xml100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Clawstep_Sickle_B_LegSep.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_A_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_B_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_C_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_D_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_E_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_F_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_G_Black.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_H_Black.xml100%  
+	    New File  		     192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_I_Black_Scar_B.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_B_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_C_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_D_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_E_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_F_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_G_Black.xml100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_H_Black.xml100%  
+	    New File  		     191	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_I_Black_Scar_B.xml100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.xml100%  
 	    New File  		    3455	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\002944b1-025d-4f0d-a21f-9837a9815b6c.lsf100%  
 	    New File  		    2683	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\003af176-bbfd-45bc-a040-5a5f7e1d8eb4.lsf100%  
 	    New File  		    1596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\005086ef-7147-a547-6d4d-9b57d6a13156.lsf100%  
@@ -1059,299 +1027,37 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    3416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\fb61102d-c808-4a42-b5a2-64cae0bbf09c.lsf100%  
 	    New File  		   13561	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\fe4f9e78-7dc3-848d-b867-a4ee51a675ed.lsf100%  
 	    New File  		    3302	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Content\[PAK]_DGB_Body_AkELkA_Extra_A_Tattoo_A\ffd7dca6-9562-4070-9202-21f9f1ada1e8.lsf100%  
-	    New File  		  503284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_BGreen.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_BGreen.xml100%  
-	    New File  		  503284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Blue.GR2100%  
-	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Blue.xml100%  
-	    New File  		  503284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Coffee.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Coffee.xml100%  
-	    New File  		  503284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Fire.GR2100%  
-	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Fire.xml100%  
-	    New File  		  503284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Green.GR2100%  
-	    New File  		     178	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Green.xml100%  
-	    New File  		  503284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Pink.GR2100%  
-	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Pink.xml100%  
-	    New File  		  503284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Purple.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Purple.xml100%  
-	    New File  		  503284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Red.GR2100%  
-	    New File  		     176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_EL_2_Gradient_A_Red.xml100%  
-	    New File  		  503284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_Leg_Sep_EL_2.GR2100%  
-	    New File  		     169	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_B_Leg_Sep_EL_2.xml100%  
-	    New File  		  502576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Clawstep_Raptor_LegSep.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Clawstep_Raptor_LegSep.xml100%  
-	    New File  		  502576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_A_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_A_Black.xml100%  
-	    New File  		  502576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_B_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_B_Black.xml100%  
-	    New File  		  502576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_C_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_C_Black.xml100%  
-	    New File  		  502576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_D_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_D_Black.xml100%  
-	    New File  		  502576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_E_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_E_Black.xml100%  
-	    New File  		  502576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_F_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_F_Black.xml100%  
-	    New File  		  502576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_G_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_G_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_H_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_H_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_I_Black_Scar_B.GR2100%  
-	    New File  		     190	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_D_EL_2_Raptor_Tattoo_I_Black_Scar_B.xml100%  
-	    New File  		  503336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_Clawstep_ShortClaw_LegSep.GR2100%  
-	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_Clawstep_ShortClaw_LegSep.xml100%  
-	    New File  		  503336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_A_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_A_Black.xml100%  
-	    New File  		  503336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_B_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_B_Black.xml100%  
-	    New File  		  503336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_C_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_C_Black.xml100%  
-	    New File  		  503336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_D_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_D_Black.xml100%  
-	    New File  		  503336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_E_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_E_Black.xml100%  
-	    New File  		  503336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_F_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_F_Black.xml100%  
-	    New File  		  503336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_G_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_G_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_H_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_H_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_I_Black_Scar_B.GR2100%  
-	    New File  		     193	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_E_EL_2_ShortClaw_Tattoo_I_Black_Scar_B.xml100%  
-	    New File  		  499468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Clawstep_Sickle_A_LegSep.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Clawstep_Sickle_A_LegSep.xml100%  
-	    New File  		  499468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_A_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_A_Black.xml100%  
-	    New File  		  499468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_B_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_B_Black.xml100%  
-	    New File  		  499468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_C_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_C_Black.xml100%  
-	    New File  		  499468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_D_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_D_Black.xml100%  
-	    New File  		  499468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_E_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_E_Black.xml100%  
-	    New File  		  499468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_F_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_F_Black.xml100%  
-	    New File  		  499468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_G_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_G_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_H_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_H_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_I_Black_Scar_B.GR2100%  
-	    New File  		     192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_F_EL_2_Sickle_A_Tattoo_I_Black_Scar_B.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Clawstep_Sickle_B_LegSep.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Clawstep_Sickle_B_LegSep.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_A_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_A_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_B_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_B_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_C_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_C_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_D_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_D_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_E_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_E_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_F_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_F_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_G_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_G_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_H_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_H_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_I_Black_Scar_B.GR2100%  
-	    New File  		     192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_G_EL_2_Sickle_B_Tattoo_I_Black_Scar_B.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_B_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_B_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_C_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_C_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_D_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_D_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_E_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_E_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_F_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_F_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_G_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_G_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_H_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_H_Black.xml100%  
-	    New File  		  508660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_I_Black_Scar_B.GR2100%  
-	    New File  		     191	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_3Talons_Tattoo_I_Black_Scar_B.xml100%  
-	    New File  		  581644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.GR2100%  
-	    New File  		     189	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_F_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.xml100%  
-	    New File  		  500004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_BGreen.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_BGreen.xml100%  
-	    New File  		  500004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Blue.GR2100%  
-	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Blue.xml100%  
-	    New File  		  500004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Fire.GR2100%  
-	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Fire.xml100%  
-	    New File  		  500004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Green.GR2100%  
-	    New File  		     178	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Green.xml100%  
-	    New File  		  500004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Pink.GR2100%  
-	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Pink.xml100%  
-	    New File  		  500004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Purple.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Purple.xml100%  
-	    New File  		  500004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Red.GR2100%  
-	    New File  		     176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_Gradient_A_Red.xml100%  
-	    New File  		  500004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_LegSep.GR2100%  
-	    New File  		     168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_B_EL_2_LegSep.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Clawstep_Raptor_LegSep.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Clawstep_Raptor_LegSep.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_A_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_A_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_B_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_B_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_C_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_C_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_D_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_D_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_E_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_E_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_F_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_F_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_G_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_G_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_H_Black.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_H_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_I_Black_Scar_B.GR2100%  
-	    New File  		     190	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_D_EL_2_Raptor_Tattoo_I_Black_Scar_B.xml100%  
-	    New File  		  500052	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_Clawstep_ShortClaw_LegSep.GR2100%  
-	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_Clawstep_ShortClaw_LegSep.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_A_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_A_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_B_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_B_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_C_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_C_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_D_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_D_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_E_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_E_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_F_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_F_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_G_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_G_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_H_Black.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_H_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_I_Black_Scar_B.GR2100%  
-	    New File  		     193	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_E_EL_2_ShortClaw_Tattoo_I_Black_Scar_B.xml100%  
-	    New File  		  496332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Clawstep_Sickle_A_LegSep.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Clawstep_Sickle_A_LegSep.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_A_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_A_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_B_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_B_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_C_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_C_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_D_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_D_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_E_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_E_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_F_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_F_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_G_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_G_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_H_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_H_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_I_Black_Scar_B.GR2100%  
-	    New File  		     192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Sickle_A_Tattoo_I_Black_Scar_B.xml100%  
-	    New File  		  505380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Clawstep_Sickle_B_LegSep.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Clawstep_Sickle_B_LegSep.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_A_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_A_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_B_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_B_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_C_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_C_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_D_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_D_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_E_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_E_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_F_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_F_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_G_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_G_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_H_Black.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_H_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_I_Black_Scar_B.GR2100%  
-	    New File  		     192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Sickle_B_Tattoo_I_Black_Scar_B.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_B_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_B_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_C_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_C_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_D_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_D_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_E_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_E_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_F_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_F_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_G_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_G_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_H_Black.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_H_Black.xml100%  
-	    New File  		  502996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_I_Black_Scar_B.GR2100%  
-	    New File  		     191	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_I_Black_Scar_B.xml100%  
-	    New File  		  578772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.xml100%  
-	    New File  		  105676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1.GR2100%  
 	    New File  		     169	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1.xml100%  
-	    New File  		  105676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_BGreen.GR2100%  
 	    New File  		     178	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_BGreen.xml100%  
-	    New File  		  105676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Blue.GR2100%  
 	    New File  		     176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Blue.xml100%  
-	    New File  		  105676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Coffee.GR2100%  
 	    New File  		     178	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Coffee.xml100%  
-	    New File  		  105676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Fire.GR2100%  
 	    New File  		     176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Fire.xml100%  
-	    New File  		  105676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Green.GR2100%  
 	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Green.xml100%  
-	    New File  		  105676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Pink.GR2100%  
 	    New File  		     176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Pink.xml100%  
-	    New File  		  105676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Purple.GR2100%  
 	    New File  		     178	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Purple.xml100%  
-	    New File  		  105676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Red.GR2100%  
 	    New File  		     175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_A_Red.xml100%  
-	    New File  		  154244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_A_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_A_Black.xml100%  
-	    New File  		  154244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_B_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_B_Black.xml100%  
-	    New File  		  154244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_C_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_C_Black.xml100%  
-	    New File  		  154244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_D_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_D_Black.xml100%  
-	    New File  		  154244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_E_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_E_Black.xml100%  
-	    New File  		  154244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_F_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_F_Black.xml100%  
-	    New File  		  154244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_G_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1_Tattoo_G_Black.xml100%  
-	    New File  		  105568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1.GR2100%  
 	    New File  		     169	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_BGreen.GR2100%  
 	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_BGreen.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Blue.GR2100%  
 	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Blue.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Coffee.GR2100%  
 	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Coffee.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Green.GR2100%  
 	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Green.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Orange.GR2100%  
 	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Orange.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Pink.GR2100%  
 	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Pink.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Purple.GR2100%  
 	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Purple.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Red.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Gradient_A_Red.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_A_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_A_Black.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_B_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_B_Black.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_C_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_C_Black.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_D_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_D_Black.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_E_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_E_Black.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_F_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_F_Black.xml100%  
-	    New File  		  105416	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_G_Black.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1_Tattoo_G_Black.xml100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Assets\Textures\Icons\FF_Tattoo_A_Atlas.dds100%  
 
@@ -1359,22 +1065,22 @@ SECTION 2: COPY OPERATIONS
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        13        13         1         0         0         0
-   Files :       549       549         0         0         0         0
-   Bytes :   65.96 m   65.96 m         0         0         0         0
+   Files :       402       402         0         0         0         0
+   Bytes :    7.03 m    7.03 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           705839204 Bytes/sec.
-   Speed :           40388.443 MegaBytes/min.
-   Ended : Tuesday, April 28, 2026 9:27:53 PM
+   Speed :           101057178 Bytes/sec.
+   Speed :            5782.538 MegaBytes/min.
+   Ended : Tuesday, April 28, 2026 9:36:46 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 549 
-[DEBUG] Successfully copied files: 549 
+[DEBUG] Total files counted: 402 
+[DEBUG] Successfully copied files: 402 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34: 
-      Total files: 549 
-      Copied successfully: 549 
+      Total files: 402 
+      Copied successfully: 402 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -1392,7 +1098,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 28, 2026 9:27:55 PM
+  Started : Tuesday, April 28, 2026 9:36:47 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -1414,8 +1120,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  496332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_F_EL_2_Clawstep_Sickle_A_LegSep.GR2100%  
 	    New File  		  505380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_G_EL_2_Clawstep_Sickle_B_LegSep.GR2100%  
 	    New File  		  578772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body\DGB_M_NKD_Body_H_EL_2_Clawstep_3Talons_LegSep.GR2100%  
-	    New File  		  105676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1.GR2100%  
-	    New File  		  105568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1.GR2100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body_Tattoo\DGB_F_NKD_Body_A_EL_1_Gradient_A_CTLO.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body_Tattoo\DGB_F_NKD_Body_A_EL_2_Tattoo_A_CTLO.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body_Tattoo\DGB_F_NKD_Body_A_EL_2_Tattoo_B_CTLO.DDS100%  
@@ -1436,6 +1140,8 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body_Tattoo\DGB_M_NKD_Body_A_EL_2_Tattoo_G_CTLO.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body_Tattoo\DGB_M_NKD_Body_A_EL_2_Tattoo_H_CTLO.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Body_Tattoo\DGB_M_NKD_Body_F_Sickle_A_EL_1_Tattoo_I_CTLO.DDS100%  
+	    New File  		  105676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_F_NKD_Tail_A_FF_Long_EL_1.GR2100%  
+	    New File  		  105568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\DGB_Body_AkELkA_Extra_A\Tail\DGB_M_NKD_Tail_A_FF_Long_EL_1.GR2100%  
 
 ------------------------------------------------------------------------------
 
@@ -1446,9 +1152,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           5374770363 Bytes/sec.
-   Speed :           307546.827 MegaBytes/min.
-   Ended : Tuesday, April 28, 2026 9:27:55 PM
+   Speed :           4926872833 Bytes/sec.
+   Speed :           281917.924 MegaBytes/min.
+   Ended : Tuesday, April 28, 2026 9:36:47 PM
 
  
 [DEBUG] Counting source files 
@@ -1481,7 +1187,7 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 549 
+[LOG] Files copied by xcopy: 402 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
@@ -1490,8 +1196,8 @@ SECTION 4: FINAL SUMMARY
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 591 
-[SUMMARY] Total files successfully copied: 1182 
+[SUMMARY] Total files found: 444 
+[SUMMARY] Total files successfully copied: 888 
  
 [SUMMARY] All files were copied successfully 
  
