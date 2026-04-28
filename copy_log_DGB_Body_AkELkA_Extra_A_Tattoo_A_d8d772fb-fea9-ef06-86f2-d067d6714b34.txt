@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34 
-   Tue 04/28/2026  5:05:27.69 
+   Tue 04/28/2026 14:16:52.69 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -643,7 +643,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 28, 2026 5:05:31 AM
+  Started : Tuesday, April 28, 2026 2:16:56 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Projects\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -654,7 +654,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     711	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\meta.lsx100%  
-	    New File  		  544896	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\thumbnail.png100%  
+	    New File  		  544896	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\thumbnail.png 48%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -663,11 +663,7 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :   532.8 k   532.8 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :           545607000 Bytes/sec.
-   Speed :           31219.882 MegaBytes/min.
-   Ended : Tuesday, April 28, 2026 5:05:31 AM
+   Ended : Tuesday, April 28, 2026 2:16:56 PM
 
  
 [DEBUG] Counting source files 
@@ -693,7 +689,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 28, 2026 5:05:32 AM
+  Started : Tuesday, April 28, 2026 2:16:58 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Editor\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -717,7 +713,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           132340000 Bytes/sec.
    Speed :            7572.555 MegaBytes/min.
-   Ended : Tuesday, April 28, 2026 5:05:32 AM
+   Ended : Tuesday, April 28, 2026 2:16:58 PM
 
  
 [DEBUG] Counting source files 
@@ -743,7 +739,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 28, 2026 5:05:34 AM
+  Started : Tuesday, April 28, 2026 2:16:59 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Mods\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -769,7 +765,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           571616000 Bytes/sec.
    Speed :           32708.129 MegaBytes/min.
-   Ended : Tuesday, April 28, 2026 5:05:34 AM
+   Ended : Tuesday, April 28, 2026 2:16:59 PM
 
  
 [DEBUG] Counting source files 
@@ -795,7 +791,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 28, 2026 5:05:36 AM
+  Started : Tuesday, April 28, 2026 2:17:01 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -1364,9 +1360,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           683647118 Bytes/sec.
-   Speed :           39118.601 MegaBytes/min.
-   Ended : Tuesday, April 28, 2026 5:05:36 AM
+   Speed :           616503205 Bytes/sec.
+   Speed :           35276.596 MegaBytes/min.
+   Ended : Tuesday, April 28, 2026 2:17:02 PM
 
  
 [DEBUG] Counting source files 
@@ -1392,7 +1388,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 28, 2026 5:05:38 AM
+  Started : Tuesday, April 28, 2026 2:17:03 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\Generated\Public\DGB_Body_AkELkA_Extra_A_Tattoo_A_d8d772fb-fea9-ef06-86f2-d067d6714b34\
 
@@ -1446,9 +1442,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           3195809405 Bytes/sec.
-   Speed :           182865.681 MegaBytes/min.
-   Ended : Tuesday, April 28, 2026 5:05:38 AM
+   Speed :           5912247400 Bytes/sec.
+   Speed :           338301.509 MegaBytes/min.
+   Ended : Tuesday, April 28, 2026 2:17:03 PM
 
  
 [DEBUG] Counting source files 
