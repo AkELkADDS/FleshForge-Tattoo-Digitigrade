@@ -1488,7 +1488,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="haf86d6fagb9a0g9107g1a1eg5f6c50788838" version="3"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_B_Black"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_3Talons_Tattoo_B_Black"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="b7adc440-c531-426b-9def-3e5bacb39fc4"/>
@@ -1503,7 +1503,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7854f76dgab18g3028g5a74g471121a39611" version="3"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_C_Black"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_3Talons_Tattoo_C_Black"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="d79580b5-b0d1-4b05-8df1-2cefbc622d3d"/>
@@ -1518,7 +1518,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h51b94dc7g843dg5465g8acdg995b64755abc" version="3"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_D_Black"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_3Talons_Tattoo_D_Black"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="e5d19a8c-d27d-4cbd-ab78-c626bee3fb24"/>
@@ -1533,7 +1533,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h41497aa7g82c0ge107ge789g0cabe83ce0ef" version="3"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_E_Black"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_3Talons_Tattoo_E_Black"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="05c2e9fa-13b0-460b-bc6f-17a56f77087a"/>
@@ -1548,7 +1548,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5d709b63gdfc9g334bg650ag87c6138c9cea" version="3"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_F_Black"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_3Talons_Tattoo_F_Black"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="0afcaa77-1c20-433f-8a07-0b2be5bef5fd"/>
@@ -1563,7 +1563,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf9bc621fg488eg0d28gd528gdba4ea1fd051" version="3"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_G_Black"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_3Talons_Tattoo_G_Black"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="47de6ffb-17d9-49a3-b19b-5addcf3a8a0c"/>
@@ -1578,7 +1578,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc879c26eg06c6gf3a1gccb8g3f91a20408c4" version="3"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_H_Black"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_3Talons_Tattoo_H_Black"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="a96940da-3ac9-475f-a327-b45f7b30b307"/>
@@ -1593,7 +1593,7 @@
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h33de9316g2269ga8fcg761bg350af6c82a51" version="3"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_I_Black"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BodySelector_A_3Talons_Tattoo_I_Black"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
                     <attribute id="UUID" type="guid" value="8d13e17e-3a10-46f5-9636-7cd9986f5e34"/>

@@ -1700,7 +1700,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e219b309-4b64-4632-8936-ff11541cc785" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_B_Black" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haf86d6fagb9a0g9107g1a1eg5f6c50788838" version="3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_B_Black" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Tattoo_B_Black" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
       </fields>
     </stat_object>
@@ -1715,7 +1715,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b56cb88e-4131-41eb-8401-7cdac868a799" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_C_Black" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7854f76dgab18g3028g5a74g471121a39611" version="3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_C_Black" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Tattoo_C_Black" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
       </fields>
     </stat_object>
@@ -1730,7 +1730,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="3c96e2a3-f68a-4e17-a4ba-3d6a44a5c93c" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_D_Black" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h51b94dc7g843dg5465g8acdg995b64755abc" version="3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_D_Black" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Tattoo_D_Black" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
       </fields>
     </stat_object>
@@ -1745,7 +1745,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ce044b15-55a5-4832-aafe-f0d31d406c94" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_E_Black" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h41497aa7g82c0ge107ge789g0cabe83ce0ef" version="3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_E_Black" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Tattoo_E_Black" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
       </fields>
     </stat_object>
@@ -1760,7 +1760,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0b3e6861-f53d-43ef-8c70-f0cf700dd481" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_F_Black" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5d709b63gdfc9g334bg650ag87c6138c9cea" version="3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_F_Black" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Tattoo_F_Black" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
       </fields>
     </stat_object>
@@ -1775,7 +1775,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e228f466-e13a-4d15-bebe-fd460cbc335a" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_G_Black" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf9bc621fg488eg0d28gd528gdba4ea1fd051" version="3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_G_Black" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Tattoo_G_Black" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
       </fields>
     </stat_object>
@@ -1790,7 +1790,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="5fe959a6-8f53-4f89-b3a6-a0c0e21dda8f" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_H_Black" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc879c26eg06c6gf3a1gccb8g3f91a20408c4" version="3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_H_Black" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Tattoo_H_Black" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
       </fields>
     </stat_object>
@@ -1805,7 +1805,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="183075fa-b32c-4e5c-a954-edcbaf2a47b9" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Body_H_EL_2_3Talons_Tattoo_I_Black_Scar_B" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h33de9316g2269ga8fcg761bg350af6c82a51" version="3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_Clawstep_Tattoo_I_Black" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BodySelector_A_3Talons_Tattoo_I_Black" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="130940d3-07c9-4689-b25a-3f0d63e7befc" />
       </fields>
     </stat_object>
